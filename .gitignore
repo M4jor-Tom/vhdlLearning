@@ -1,0 +1,14 @@
+
+*.bak
+
+count_4b_r_c.vhd
+
+tb_count_4b_r_c.vhd
+
+*.wlf
+
+*.mti
+
+work/
+
+*.mpf
